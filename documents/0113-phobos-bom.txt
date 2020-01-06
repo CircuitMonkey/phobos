@@ -1,0 +1,40 @@
+Partlist exported from /Users/mark/Workspaces-local/svn/CircuitMonkey/Products/Boards/0113-Phobos/PCB/phobos.sch at 1/5/20 8:36 PM
+
+Part Value          Device         Package    Description    MF    MPN                 OC_MOUSER         OC_SEEED  VALUE        
+!RST PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+00   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+01   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+02   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+03   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+04   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+05   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+06   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+07   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+08   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+09   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+10   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+11   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+12   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+13   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+A0   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+A1   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+A2   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+A3   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+A4   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+A5   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+AREF PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+C1   1uF            CAPACITOR0402  0402-CAP   Capacitor  CAP                                                                    
+C2   12pF           CAPACITOR0402  0402-CAP   Capacitor  CAP                                                                    
+C3   12pF           CAPACITOR0402  0402-CAP   Capacitor  CAP                                                                    
+C4   1uF            CAPACITOR0402  0402-CAP   Capacitor  CAP                                                                    
+C5   0.1uF          CAPACITOR0402  0402-CAP   Capacitor  CAP                                                                    
+CK   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+G    PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+G.   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+R1   10K            RESISTOR0402   0402-RES   Resistor                                                                          
+SI   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+SO   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+U1   ATmega328P-MU  ATMEGA328MU    MLF32      Atmega 328P    Atmel atmega328p-mu       556-ATMEGA328P-MU 310010005 ATmega328P-MU
+V    PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+V.   PADSMD-070X070 PADSMD-070X070 SMD-070MIL Solder Pad                                                                        
+X1   16MHz          2P3.2X2.5      32X25      Crystal        Epson FA-238 16.0000MB-K3                             16MHz        
